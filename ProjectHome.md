@@ -1,0 +1,1 @@
+A simple Android application that lets you take advantage of the build-in dock apps, even if you don't have a dock nearby.
